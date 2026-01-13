@@ -1,7 +1,7 @@
 #!/bin/bash
 
-KERNEL=6.12.62
-BRANCH=v25.12.0-rc1
+KERNEL=6.12.63
+BRANCH=v25.12.0-rc2
 
 rm -rf linux*
 rm -rf openwrt
